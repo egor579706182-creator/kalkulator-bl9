@@ -1,0 +1,5 @@
+{
+  "name": "SimpleCalc",
+  "description": "Простой, элегантный и адаптивный калькулятор на React. Идеально подходит для быстрых вычислений.",
+  "requestFramePermissions": []
+}
